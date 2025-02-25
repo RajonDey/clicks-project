@@ -7,4 +7,4 @@ Clicks, a social media app created with React and Sanity, for my learning purpos
 Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
 
 ## Stay up to date & stay connected
-Visit my website: https://www.rdcircles.com/
+Visit my website: https://www.rajondey.com/
